@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+// Zantastico X Open Source Script Installer for ZPX
+// Version          : 10.1.1.2 (09-05-2013)
+// Updated By       : TGates for ZPanel X
+// Additional Work  : Durandle
+// Packages Updated : 03/08/2013 by jacobg830
+// Contact Email    : tgates@zpanelcp.com
+// Original Authors : Bobby Allen/Mudasir Mirza
+-->
+<packages>
+<package>
+<name>Place Holder</name>
+<version>0.0.0</version>
+<zipname>empty</zipname>
+<type>empty</type>
+<info>This is just a place holder</info>
+<db>yes</db> // Does this package require a database? (yes/no)
+</package>
+<package>
+<name>Place Holder</name>
+<version>0.0.0</version>
+<zipname>empty</zipname>
+<type>empty</type>
+<info>This is just a place holder</info>
+<db>yes</db> // Does this package require a database? (yes/no)
+</package>
+</packages>
